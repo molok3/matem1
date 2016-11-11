@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>FF0000</corbanda>
+        <cormensaxes>FF0000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>PRACTICAS</titulo>
+        <autor>Abraham Roman</autor>
+        <iden>Matemáticas preliminares</iden>
+        <aspectosup >skin_superior2.swf</aspectosup>
+        <axuda>LEER MATEMÁTICAS PRELIMINARES</axuda>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="Sonido de aplausos y gritos del publico  (para editar).mp3" modo="1" >CORRECTO CONTINUA</correcto>
+        <incorrecto son="Coche policia Sirena (Efecto de Sonido) Police car Sound Effect.mp3" modo="1" >INCORRECTO VUELVE A REVISAR</incorrecto>
+        <caracteres>no te desanimes, ante todo sigue intentado</caracteres>
+        <modomenu>1</modomenu>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>4</tipo>
+              <cabeceira>Busca el nombre de los conjuntos de números</cabeceira>
+              <modo>1</modo>
+              <sopa enun="">reales</sopa>
+              <sopa enun="">racionales</sopa>
+              <sopa enun="">irracionals</sopa>
+              <sopa enun="">complejos</sopa>
+              <sopa enun="">enteros</sopa>
+              <sopa enun="">naturales</sopa>
+              <enunciado>1</enunciado>
+              <colorea>1</colorea>
+              <cadro>1</cadro>
+              <fondo>airutosle</fondo>
+        </paxina>
+        <paxina id="2" >
+              <tipo>14</tipo>
+              <cabeceira>Arrastre las imágenes de acuerdo al tipo de número</cabeceira>
+              <peza imaxe="" texto="Irracional" son="">clas1.png</peza>
+              <peza imaxe="" texto="Racional" son="">clas2.png</peza>
+              <peza imaxe="" texto="Entero" son="">clas3.png</peza>
+              <cfondo>F4C60B</cfondo>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <cabeceira>Suma y resta</cabeceira>
+              <imaxe posx="5" posy="75">sumas_y_restas.swf</imaxe>
+              <texto posx="0" posy="-5" ancho="613" largo="100"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="12">Cuando sumamos dos números con signo distinto, </font><font color="#0000FF" face="Arial" size="12"><b>realizamos la resta del número mayor al número menor y al resultado le colocamos el signo del número mayor.</b><br>
+<br>
+</font><font color="#000000" face="Arial" size="12"><b>Si los dos número tiene el mismo signo entonces se suman los dos números y anteponemos el signo </b></font><font color="#40E8D7" face="Arial" size="12"><b>en</b></font><font color="#00FFFF" face="Arial" size="12"><b> común que tiene los dos números.</b><br>
+Observe los siguientes ejemplos:<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="4" >
+              <tipo>24</tipo>
+              <cabeceira>Es el resultado de la operación: De 5 restar 9</cabeceira>
+              <etiqueta imaxe="" texto="4">0</etiqueta>
+              <etiqueta imaxe="" texto="-4">1</etiqueta>
+              <etiqueta imaxe="" texto="14">0</etiqueta>
+              <etiqueta imaxe="" texto="-14">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <cfondo>F8CB87</cfondo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>24</tipo>
+              <cabeceira>El resultado de la operación: De -6 restar -7</cabeceira>
+              <etiqueta imaxe="" texto="13">0</etiqueta>
+              <etiqueta imaxe="" texto="1">1</etiqueta>
+              <etiqueta imaxe="" texto="-13">0</etiqueta>
+              <etiqueta imaxe="" texto="-1">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <cfondo>52E4D6</cfondo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>24</tipo>
+              <cabeceira>De 7 sumar -3 ¿Cuál es el resultado?</cabeceira>
+              <etiqueta imaxe="" texto="4">1</etiqueta>
+              <etiqueta imaxe="" texto="-4">0</etiqueta>
+              <etiqueta imaxe="" texto="10">0</etiqueta>
+              <etiqueta imaxe="" texto="-10">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <cfondo>EF7EEC</cfondo>
+        </paxina>
+        <paxina id="7" >
+              <tipo>24</tipo>
+              <cabeceira>De -8 sumar -5 ¿Cuál es el resultado?</cabeceira>
+              <etiqueta imaxe="" texto="13">0</etiqueta>
+              <etiqueta imaxe="" texto="3">0</etiqueta>
+              <etiqueta imaxe="" texto="-3">0</etiqueta>
+              <etiqueta imaxe="" texto="-13">1</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <cfondo>80FF00</cfondo>
+        </paxina>
+        <paxina id="8" >
+              <tipo>2</tipo>
+              <cabeceira>Jeraquia de las operaciones.</cabeceira>
+              <imaxe posx="25" posy="113">jera1.png</imaxe>
+              <texto posx="0" posy="-5" ancho="586" largo="92"><![CDATA[
+<p align="left">
+<font color="#FF0000" face="Arial" size="12"><b>Cuando tenemos una operación en la que aparecen sumas, restas, multiplicación, división y potencia. Para resolverla primero realicemos la potencia, enseguida la división, luego la multiplicación y por último la suma y resta, sin olvidarse la ley de los signos de la multiplicación y división, iniciando de izquierda a derecha.</b><br>
+<br>
+</font><font color="#0000FF" face="Arial" size="12">Por ejemplo resuelva: </font><font color="#0000FF" face="Arial" size="14">−8 ∗ 9 ÷ −3 ∗ 6 + 5 + 10 ∗ 15 ÷ −5 − 8 − 9 − 18 ÷ 6</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="9" >
+              <tipo>24</tipo>
+              <cabeceira>De las siguientes opciones cual es la solución de la operación: 4+5*6+30*6÷2*3-50÷5*4÷2-1</cabeceira>
+              <etiqueta imaxe="" texto="382">0</etiqueta>
+              <etiqueta imaxe="" texto="328">0</etiqueta>
+              <etiqueta imaxe="" texto="283">1</etiqueta>
+              <etiqueta imaxe="" texto="238">0</etiqueta>
+              <etiqueta imaxe="" texto="823">0</etiqueta>
+              <etiqueta imaxe="" texto="832">0</etiqueta>
+              <cfondo>808080</cfondo>
+        </paxina>
+        <paxina id="10" >
+              <tipo>24</tipo>
+              <cabeceira>¿Cuál es el resultado de la operación: -15÷-5*3+5+4÷-2+1*12÷-6*4</cabeceira>
+              <etiqueta imaxe="" texto="4">1</etiqueta>
+              <etiqueta imaxe="" texto="-4">0</etiqueta>
+              <etiqueta imaxe="" texto="-6">0</etiqueta>
+              <etiqueta imaxe="" texto="6">0</etiqueta>
+              <etiqueta imaxe="" texto="-8">0</etiqueta>
+              <etiqueta imaxe="" texto="8">0</etiqueta>
+              <cfondo>FF0080</cfondo>
+        </paxina>
+        <paxina id="11" >
+              <tipo>24</tipo>
+              <cabeceira>En un colegio hay una población de 800 alumnos, de ellos 430 son varones, ¿Cuántas mujeres hay en la escuela?</cabeceira>
+              <etiqueta imaxe="" texto="370">1</etiqueta>
+              <etiqueta imaxe="" texto="377">0</etiqueta>
+              <etiqueta imaxe="" texto="387">0</etiqueta>
+              <etiqueta imaxe="" texto="397">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <cfondo>AEAFEC</cfondo>
+        </paxina>
+        <paxina id="12" >
+              <tipo>24</tipo>
+              <cabeceira>La edad de Abigail es de 31 años, la de Mario es de 59 y la diferencia de las edades Carmen y Clara es de 37 años, ¿En cuánto excede la suma de las edades de Abigail y Mario a la diferencia de las de Carmen y Clara?</cabeceira>
+              <etiqueta imaxe="" texto="35">0</etiqueta>
+              <etiqueta imaxe="" texto="54">0</etiqueta>
+              <etiqueta imaxe="" texto="53">1</etiqueta>
+              <etiqueta imaxe="" texto="45">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <cfondo>6CC160</cfondo>
+        </paxina>
+        <paxina id="13" >
+              <tipo>24</tipo>
+              <cabeceira>Juan solicitó un prestamo de $20, 000: el primer mes abonó $6, 000, el segundo $ 4,000, y en el tercero $5 500, ¿Cuánto le falta pagar para cubrir su deuda?</cabeceira>
+              <etiqueta imaxe="" texto="$ 5 5000">0</etiqueta>
+              <etiqueta imaxe="" texto="$5 400">0</etiqueta>
+              <etiqueta imaxe="" texto="$ 4 500">1</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <etiqueta imaxe="" texto="$ 5000">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <cfondo>DBA68E</cfondo>
+        </paxina>
+        <paxina id="14" >
+              <tipo>24</tipo>
+              <cabeceira>En un cuarto hay cierta cantidad de niños: Si cada niño mira cinco niños. ¿Cuántos niños hay?</cabeceira>
+              <etiqueta imaxe="" texto="5">0</etiqueta>
+              <etiqueta imaxe="" texto="6">1</etiqueta>
+              <etiqueta imaxe="" texto="7">0</etiqueta>
+              <etiqueta imaxe="" texto="25">0</etiqueta>
+              <etiqueta imaxe="" texto="15">0</etiqueta>
+              <etiqueta imaxe="" texto="10">0</etiqueta>
+              <cfondo>F88818</cfondo>
+        </paxina>
+        <paxina id="15" >
+              <tipo>24</tipo>
+              <cabeceira>Si todos los números impares fueran negros y todos los números pares rojos. ¿Qué color tendría la suma de los ocho primeros números naturales? (no considerar el cero)</cabeceira>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <etiqueta imaxe="" texto="rojo">1</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <etiqueta imaxe="" texto="negro">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <cfondo>C5FAF3</cfondo>
+        </paxina>
+        <paxina id="16" >
+              <tipo>38</tipo>
+              <imaxe>pag13.png</imaxe>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="18">Si <b>CONDUCTOR</b> = 9 y <b>CARRO </b>= 5, encuentre: </font></p>
+]]></texto>
+              <resp>52</resp>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="17" >
+              <tipo>2</tipo>
+              <cabeceira>Delimitadores o signos de agrupación</cabeceira>
+              <imaxe posx="88" posy="103">jer2.png</imaxe>
+              <texto posx="0" posy="-2" ancho="599" largo="80"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="12">Los signos de agrupación o delimitadores más comunes en matemáticas son las llaves { }, corchetes [ ], parentésis ( ).<br>
+Para resolver una operación con delimitadores se inicia con los paréntesis, enseguida de los corchetes y por último las llaves, o con las operaciones de "mas fondo" hasta terminar con las operaciones del exterior.<br>
+</font><font color="#F4390B" face="Arial" size="12"><b>Cuál es el resultado de la operación:  [( −  8  +  6)  −  ( −  3  −  2)]  +  [4  −  (2  −  1)]</b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="18" >
+              <tipo>38</tipo>
+              <cabeceira>Utilice la jerarquía de las operaciones, y delimitadores y escriba la respuesta correcta</cabeceira>
+              <imaxe>par1.png</imaxe>
+              <forma>2</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="12">Utilice la jeraquía de las operaciones con delimitadores y conteste</font></p>
+]]></texto>
+              <resp>17</resp>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="19" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="52">del2.png</imaxe>
+              <texto posx="0" posy="-3" ancho="601" largo="58"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="12">Cuál es el resultado de la operación:<b> </b></font><font color="#080000" face="@GungsuhChe" size="14"><b>-[-8+(4-7)+(2-5-3)]+[(6-3)-(2-5-6)-12]</b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="20" >
+              <tipo>38</tipo>
+              <cabeceira>Escriba el resultado de la siguiente operación:</cabeceira>
+              <imaxe>par2.png</imaxe>
+              <forma>0</forma>
+              <resp>12</resp>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="21" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="61">del3.png</imaxe>
+              <texto posx="0" posy="-1" ancho="606" largo="87"><![CDATA[
+<p align="left">
+<font color="#080000" face="Candara" size="18">Resuelva la operación siguiente:   </font><font color="#080000" face="Cambria" size="18">3{ 2 ( 12 - 4) ÷ 4 ( 10 ÷ 5 ) - 6 }<br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="22" >
+              <tipo>38</tipo>
+              <cabeceira>Escriba el resultado de la siguiente operación:</cabeceira>
+              <imaxe>par3.png</imaxe>
+              <forma>0</forma>
+              <resp>-1</resp>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="23" >
+              <tipo>29</tipo>
+              <cabeceira>Conversión de decimal a fracción</cabeceira>
+              <texto><![CDATA[Existen tres tipos de decimales: expansión decimal finita, expansión decimal periódica infinita y expansión decimal infinita mixta.
+
+Se le llama expansión decimal finita al decimal cuyos dígitos no continuan apareciendo. Por ejemplo: 0.456;  3.5678; 0.45667
+
+Se le llama expansión decimal periódica infinita al decimal cuyos dígitos continuan apareciendo infinitamente en el mismo orden. Se le llama periodo al número que se repite en el mismo orden.  Ejemplos: 0.45454545...;   0.721721721...
+
+Se le llama expansión decimal infinita mixta al decimal constituido por número periódico y dígitos que aparecen una sola vez. por ejemplo: 0.21343434...; 4.456666666...; 0.72314314314...]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>0</modo>
+              <forma>15</forma>
+        </paxina>
+        <paxina id="24" >
+              <tipo>2</tipo>
+              <cabeceira>Expansión decimal finita</cabeceira>
+              <imaxe posx="3" posy="138">cfrac1.png</imaxe>
+              <texto posx="0" posy="-2" ancho="600" largo="120"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="12">El procedimiento para convertir un decimal a fracción difiere del tipo de decimal.<br>
+<br>
+Ejemplo:<br>
+Convierta a fracción el decimal 0.126  y   0.25<br>
+</font><font color="#0000FF" face="Arial" size="12">Solución:<br>
+Para convertir éste tipo de decimal solo anotamos el número sin el punto decimal como numerador y como denominador escribimos uno seguido de tantos ceros  como dígitos tenga el decimal después del punto decimal.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="25" >
+              <tipo>29</tipo>
+              <texto><![CDATA[Para convertir un decimal con expansión infinita periódica se siguie las instrucciones siguientes:
+
+PRIMERO:
+Note que el decimal surge de una división, llamémosle f, observe el periodo y note cuántos dígitos está formado el periodo. Y multiplicaremos al decimal por uno seguido de tantos cero como dígitos tenga el periodo
+
+SEGUNDO:
+Del resultado de la multiplicación anterior, restamos al decimal. 
+
+TERCERO: 
+Despejar]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>0</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="26" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="18">cfrac2.png</imaxe>
+              <texto posx="0" posy="-17" ancho="589" largo="32"><![CDATA[
+<p align="left">
+<font color="#FF0000" face="Arial" size="14"><b>Convierta a fracción el decimal 0.5656...</b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="27" >
+              <tipo>29</tipo>
+              <cabeceira>Para convertir un decimal con expansión infinita mixta realice:</cabeceira>
+              <texto><![CDATA[PRIMERO:
+Observamos cuántos dígitos tiene el periodo incluyendo la cifra que sólo aparece una sola vez. Mutiplicaremos al decimal por un uno seguido de tantos cero como dígitos tenga el periodo y el dígito que solo aparece una sola vez.
+
+SEGUNDO:
+Observamos cuántos dígitos está constituido la cifra que sólo aparece una vez; multiplicaremos al decimal por un uno seguido de tantos ceros como dígitos tenga la cifra que solo aparece una vez.
+
+TERCERO:
+Restamos el primer resultado de la multiplicación menos el resultado de la segunda multiplicación.
+
+CUARTO:
+Despejamos]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>0</modo>
+              <forma>13</forma>
+        </paxina>
+        <paxina id="28" >
+              <tipo>2</tipo>
+              <cabeceira>Convierta a fracción el decimal 0.43122122122...</cabeceira>
+              <imaxe posx="0" posy="-7">cfrac3.png</imaxe>
+              <texto posx="0" posy="-15" ancho="624" largo="34"><![CDATA[
+<p align="left">
+<font color="#000000" face="Cambria" size="14"><b></b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="29" >
+              <tipo>2</tipo>
+              <cabeceira>Mínimo común múltiplo y Máximo Común Divisor</cabeceira>
+              <imaxe posx="0" posy="115">mcm.png</imaxe>
+              <texto posx="0" posy="-26" ancho="617" largo="167"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="12">El mínimo común múltiplo (<b><i>m.c.m</i></b>) de dos o más números es el menor múltiplo en común de esos números.<br>
+El Máximo Común Divisor (<b><i>M.C.D</i></b>) de dos  o más números es el divisor mas grande en común de tales números.<br>
+<br>
+Para encontrar el <b>mcm</b> y <b>MCD</b> debemos descomponer los números en factores primos.<br>
+Algunos de los números primos son: </font><font color="#FF0000" face="Arial" size="12"><b>2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41,...</b><br>
+<br>
+</font><font color="#080000" face="Arial" size="12"><b>El método consiste en dividir sucesivamente a los números entre cada número primo hasta agotar a uno.</b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="30" >
+              <tipo>2</tipo>
+              <cabeceira>Aplicaciones</cabeceira>
+              <imaxe posx="0" posy="172">mcm1.png</imaxe>
+              <texto posx="0" posy="-3" ancho="603" largo="169"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="14">Gerardo fabrica un anuncio luminoso con focos de color rojo, amarillo y verde, de tal manera que los focos rojos enciendan cada 10 segundos, los amarillos cada 6 y los verdes cada 15, si al probar el anuncio encienden todos los focos a la vez, ¿después de cuántos segundos volverán a encender juntos?<br>
+<br>
+Solución:<br>
+Es un problema de mínimo común múltiplo, porque se busca el menor cantidad de segundos en que enciendan los tres focos, procedamos a obtener el m.c.m</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="31" >
+              <tipo>2</tipo>
+              <cabeceira>Aplicaciones</cabeceira>
+              <imaxe posx="3" posy="82">mcm3.png</imaxe>
+              <texto posx="0" posy="-8" ancho="604" largo="80"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="14">Tres rollos de tela de 30, 48 y 72 metros de largo se quieren </font><font color="#251CE3" face="Arial" size="14">cortar</font><font color="#080000" face="Arial" size="14"> para hacer banderas con pedazos iguales y de mayor longitud, ¿cuál será el largo de cada pedazo?<br>
+ </font><font color="#000000" face="Arial" size="12">Solución:<br>
+Es un problema de M.C.D porque recuerde cortar es sinonimo de repartir, dividir. Obtengamos el Máximo Común Divisor</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="32" >
+              <tipo>2</tipo>
+              <cabeceira>Fracciones</cabeceira>
+              <imaxe posx="2" posy="146">fraccc.png</imaxe>
+              <texto posx="0" posy="-21" ancho="608" largo="173"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="12">Se le llama fracción al número escrito en la forma (vea Figura 1), la cual está conformada por un numerador y denominador.<br>
+<br>
+La fracción indica una división, el numerador corresponde dividendo y al denominador al divisor. De ahí que los decimales también son fracciones, pero no todos los decimales son fracciones.<br>
+<br>
+Existen tres tipos de fracciones: fracciones propias, impropias y mixtas. En la Figura 2 se muestra un ejemplo de fracción propia, figura 3 fracción impropia y la figura 4 muestra una fracción mixta. Podemos obtener una fracción mixta a partir de una fracción impropia y viceversa.<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="33" >
+              <tipo>24</tipo>
+              <cabeceira>En una familia que conforman 3 hombres y 4 mujeres, ¿Qué fracción de la familia representan las mujeres</cabeceira>
+              <etiqueta imaxe="fracequi3.png" texto="">0</etiqueta>
+              <etiqueta imaxe="prob1.png" texto="">1</etiqueta>
+              <etiqueta imaxe="prob1a.png" texto="">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="34" >
+              <tipo>2</tipo>
+              <cabeceira>Conversión de fracciones mixtas a impropias y viceversa</cabeceira>
+              <imaxe posx="0" posy="110">fracciones.png</imaxe>
+              <texto posx="0" posy="-8" ancho="591" largo="121"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="12">Para convertir una fracción </font><font color="#FF0000" face="Arial" size="12"><b>mixta a impropia</b></font><font color="#080000" face="Arial" size="12"> solo debemos multiplicar la parte entera por el denominador de la fracción, y sumarle al numerador y por denominador se toma al denominador de la fracción (Figura 1)<br>
+<br>
+Para convetir una fracción </font><font color="#0000FF" face="Arial" size="12"><b>impropia a mixta</b></font><font color="#080000" face="Arial" size="12"> debemos de dividir el numerador entre el denominador y tomar al cociente como la parte entera y al residuo como numerador y al divisor como el denominador (Figura 2)</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="35" >
+              <tipo>7</tipo>
+              <cabeceira>Arrastre las fracciones para clasificarlas de acuerdo a su naturaleza</cabeceira>
+              <caixa1>Fraccion propia</caixa1>
+              <caixa2>fracción impropia y/o mixta</caixa2>
+              <mini caixa="1">frp1.png</mini>
+              <mini caixa="2">fm1.png</mini>
+              <mini caixa="2">fm2.png</mini>
+              <mini caixa="2">fm3.png</mini>
+              <mini caixa="1">frp2.png</mini>
+              <mini caixa="1">frp3.png</mini>
+              <cfondo>F023F5</cfondo>
+              <cadro></cadro>
+              <modo></modo>
+        </paxina>
+        <paxina id="36" >
+              <tipo>3</tipo>
+              <cabeceira>Resuelve el siguiente rompecabeza para encontrar una fracción mixta a la fracción impropia 123/10</cabeceira>
+              <imaxe>fm.png</imaxe>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="37" >
+              <tipo>14</tipo>
+              <cabeceira>Relaciona las siguientes fracciones con su respectivo equivalente</cabeceira>
+              <peza imaxe="fracequi.png" texto="  " son="">fracequi11.png</peza>
+              <peza imaxe="fracequi2.png" texto="" son="">fracequi22.png</peza>
+              <peza imaxe="fracequi3.png" texto="" son="">fracequi33.png</peza>
+              <cfondo>F4C60B</cfondo>
+        </paxina>
+        <paxina id="38" >
+              <tipo>2</tipo>
+              <cabeceira>Álgebra: rama de la matemática que trata a los números de manera general</cabeceira>
+              <imaxe posx="0" posy="70">alg1.png</imaxe>
+              <texto posx="1" posy="-2" ancho="614" largo="75"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="12">En álgebra se refiere a los números como <b>términos algebraicos</b>, utiliza letras del alfabeto para referise a ellos. Los  cuales está constituido por los siguientes elementos: signo, coeficiente, literal y exponente.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="39" >
+              <tipo>2</tipo>
+              <cabeceira>Términos semejantes: dos o más términos son semejantes si tiene misma literal e igual exponente</cabeceira>
+              <imaxe posx="1" posy="2">semejantes.swf</imaxe>
+              <texto posx="0" posy="-5" ancho="603" largo="87"><![CDATA[
+<p align="left">
+<font color="#00FFFF" face="Arial" size="18"><b>El primer y el tercer terminos son semejantes, el segundo no porque difiere en el exponente a los dos términos.</b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="40" >
+              <tipo>2</tipo>
+              <cabeceira>Reducción de términos semejantes</cabeceira>
+              <imaxe posx="0" posy="18">redsem1.swf</imaxe>
+              <texto posx="0" posy="-4" ancho="598" largo="66"><![CDATA[
+<p align="left">
+<font color="#FFFFFF" face="Arial" size="12"><b>Para reducir términos semejantes basta con sumar o restar los coeficientes y agregar la literal con su exponente al resultado.</b><br>
+<br>
+<b>Observe los siguientes ejemplos:</b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+    </libro>
+</lim>
